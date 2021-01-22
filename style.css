@@ -393,6 +393,7 @@ body{
 #projects .projects-container .project .device{
         margin-bottom: 4rem;
         width: 30vw;
+        max-width: 30rem;
 }
 
 #projects .projects-container .project .ipad{
