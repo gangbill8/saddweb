@@ -393,15 +393,17 @@ body{
 #projects .projects-container .project .device{
         margin-bottom: 4rem;
         width: 30vw;
-        max-width: 30rem;
+        max-width: 35rem;
 }
 
 #projects .projects-container .project .ipad{
     width: 20vw;
+    max-width: 30rem;
 }
 
 #projects .projects-container .project .phone{
     width: 10vw;
+    max-width: 30rem;
 }
 
 #projects .projects-container .project .project-img{
