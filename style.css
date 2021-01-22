@@ -398,12 +398,12 @@ body{
 
 #projects .projects-container .project .ipad{
     width: 20vw;
-    max-width: 30rem;
+    max-width: 20rem;
 }
 
 #projects .projects-container .project .phone{
     width: 10vw;
-    max-width: 30rem;
+    max-width: 20rem;
 }
 
 #projects .projects-container .project .project-img{
