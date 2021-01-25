@@ -1128,3 +1128,7 @@ body{
     /* Footer Ends */
 
 }
+
+.submit-button{
+    background: none;
+}
